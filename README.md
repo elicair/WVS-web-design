@@ -1,3 +1,4 @@
-<img src="wood-duck-16633298487EQ.jpg" alt="Description">
-<img src="wood-duck.jpg" alt="Description">
-<img src="American_Wood_Duck.jpg" alt="Description">
+<head><b>Wood ducks</b></head>
+<img src="wood-duck-16633298487EQ.jpg" alt="male wood duck" width="500" height="600">
+<img src="wood-duck.jpg" alt="wood ducks swimming"width="500" height="600">
+<img src="American_Wood_Duck.jpg" alt="wood duck in water"width="500" height="600">
