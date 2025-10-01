@@ -1,1 +1,1 @@
-<img src="images/wood-duck.jpg" alt="Description">
+<img src="images/wood-duck-16633298487EQ.jpg" alt="Description">
